@@ -11,7 +11,8 @@
 
 - [Descripción del Proyecto](#descripción-del-proyecto)  
 - [Estado del Proyecto](#estado-del-proyecto)  
-- [Funcionalidades](#funcionalidades)  
+- [Funcionalidades](#funcionalidades)
+- [Demostración](#demostración)  
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)  
 - [Instalación y Uso](#instalación-y-uso)  
 - [Autor](#autor)  
@@ -33,10 +34,10 @@ El objetivo es ofrecer una forma rápida y divertida de organizar sorteos de ami
 ## Estado del Proyecto
 
 <p align="center">
-  :construction: Proyecto en desarrollo :construction:
+   :tada: Proyecto finalizado :tada:
 </p>
 
-Actualmente ya se implementaron las funcionalidades principales: agregado de nombres (por botón y tecla Enter), validación de entrada, actualización dinámica de la lista y sorteo aleatorio del amigo secreto.
+Actualmente ya se implementaron todas las funcionalidades principales: agregado de nombres (por botón y tecla Enter), validación de entrada, actualización dinámica de la lista y sorteo aleatorio del amigo secreto.
 
 ---
 
@@ -46,6 +47,11 @@ Actualmente ya se implementaron las funcionalidades principales: agregado de nom
 - `actualizarLista()`: Recorre el arreglo `amigos` y genera elementos `<li>` para mostrar cada nombre en pantalla.
 - `sortearAmigo()`: Comprueba que haya al menos un nombre, selecciona uno al azar usando `Math.random()` y `Math.floor()`, y muestra el resultado en un elemento en la página.
 - Evento `keydown` en el input de nombre: si se presiona la tecla Enter, también llama a `agregarAmigo()`.
+
+---
+## Demostración
+
+![Capturas de la aplicación en acción](assets/Captura%20Demo.png)
 
 ---
 
