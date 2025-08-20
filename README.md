@@ -91,5 +91,3 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 </p>
 
 ---
-
-<vscode_codeblock_uri>file:///c%3A/Proyectos/challenge-amigo-secreto_esp-
