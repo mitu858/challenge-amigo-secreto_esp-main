@@ -12,7 +12,6 @@
 - [Descripción del Proyecto](#descripción-del-proyecto)  
 - [Estado del Proyecto](#estado-del-proyecto)  
 - [Funcionalidades](#funcionalidades)  
-- [Demostración](#demostración)  
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)  
 - [Instalación y Uso](#instalación-y-uso)  
 - [Autor](#autor)  
@@ -50,16 +49,6 @@ Actualmente ya se implementaron las funcionalidades principales: agregado de nom
 
 ---
 
-## Demostración
-
-*(Aquí podrías incluir una imagen animada tipo GIF o capturas de pantalla que muestren la aplicación en acción — agregar nombres, sorteo, etc.)*
-
-Ejemplo:
-
-![Capturas de la aplicación en acción](ruta/a/tu-gif-o-imagen.gif)
-
----
-
 ## Tecnologías Utilizadas
 
 - **HTML5** – Estructura del contenido de la página.  
@@ -73,10 +62,34 @@ Ejemplo:
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/tu-usuario/amigo-secreto.git
+   ```
 2. Abre el archivo index.html en tu navegador preferido.
 
 3. Cómo usar:
-   -Escribe un nombre en el campo de texto y presiona Enter o haz clic en "Adicionar".
-   -Verás el nombre agregado en la lista de amigos.
-   -Cuando tengas al menos un nombre, haz clic en "Sortear Amigo" para seleccionar uno al azar.
-   -El resultado se mostrará en pantalla.
+   - Escribe un nombre en el campo de texto y presiona Enter o haz clic en "Adicionar".
+   - Verás el nombre agregado en la lista de amigos.
+   - Cuando tengas al menos un nombre, haz clic en "Sortear Amigo" para seleccionar uno al azar.
+   - El resultado se mostrará en pantalla.
+
+---
+
+## Autor
+
+**Juan Antonio de la Fuente** – [mitu858](https://github.com/mitu858)
+
+---
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+---
+
+<p align="center">
+  <a href="https://github.com/mitu858/challenge-amigo-secreto_esp-main/tree/main/issues">Reportar un problema</a> •
+  <a href="https://github.com/mitu858/challenge-amigo-secreto_esp-main/tree/main/pulls">Sugerir mejoras</a>
+</p>
+
+---
+
+<vscode_codeblock_uri>file:///c%3A/Proyectos/challenge-amigo-secreto_esp-
