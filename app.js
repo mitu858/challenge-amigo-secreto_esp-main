@@ -39,3 +39,9 @@ function sortearAmigo() {
     const resultado = document.getElementById("resultado");
     resultado.innerHTML = `<li>🎉 El amigo secreto es: <strong>${amigoSecreto}</strong></li>`;
 }
+// Permitir agregar con tecla Enter
+document.getElementById("amigo").addEventListener("keydown", function(event) {
+    if (event.key === "Enter") {
+        agregarAmigo();
+    }
+});
