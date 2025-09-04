@@ -81,7 +81,7 @@ Actualmente ya se implementaron todas las funcionalidades principales: agregado 
 
 ## Autor
 
-**Juan Antonio de la Fuente** – [mitu858](https://github.com/mitu858)
+**Juan Antonio de la Fuente** – [Github](https://github.com/mitu858) - [Linkedin](https://www.linkedin.com/in/jdelafuente858/)
 
 ---
 
